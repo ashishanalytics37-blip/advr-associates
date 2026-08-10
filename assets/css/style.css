@@ -16438,7 +16438,7 @@ textarea {
 }
 
 .choose-card .box-title {
-    font-size: 30px;
+    font-size: 25px;
     color: var(--white-color);
     margin-bottom: 5px;
 }
@@ -21731,7 +21731,7 @@ textarea {
 }
 
 .hero-title {
-    font-size: 50px;
+    font-size: 45px;
     text-transform: capitalize;
     margin-bottom: 38px;
 }
